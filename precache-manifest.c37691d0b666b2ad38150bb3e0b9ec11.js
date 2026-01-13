@@ -1,23 +1,23 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "be9419ed53527e26db678088626fdd5d",
+    "revision": "c14c9d6e6df042874141ce5fe1bffe64",
     "url": "/nurstatistics/index.html"
   },
   {
-    "revision": "eee241e651269b0ce570",
+    "revision": "eb93775ba7cf43a994b4",
     "url": "/nurstatistics/static/css/main.02ce2062.chunk.css"
   },
   {
-    "revision": "d81e6221b5661b559045",
-    "url": "/nurstatistics/static/js/2.07a9d5ce.chunk.js"
+    "revision": "a3978bf414f0c7f619b3",
+    "url": "/nurstatistics/static/js/2.24e395ba.chunk.js"
   },
   {
     "revision": "4059c5910822ea23b8a08f3c5b8f5905",
-    "url": "/nurstatistics/static/js/2.07a9d5ce.chunk.js.LICENSE.txt"
+    "url": "/nurstatistics/static/js/2.24e395ba.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "eee241e651269b0ce570",
-    "url": "/nurstatistics/static/js/main.f63d5849.chunk.js"
+    "revision": "eb93775ba7cf43a994b4",
+    "url": "/nurstatistics/static/js/main.970a3365.chunk.js"
   },
   {
     "revision": "0a03355e70e7753b6ebc",
