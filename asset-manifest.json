@@ -1,0 +1,37 @@
+{
+  "files": {
+    "main.css": "/nurstatistics/static/css/main.02ce2062.chunk.css",
+    "main.js": "/nurstatistics/static/js/main.f63d5849.chunk.js",
+    "main.js.map": "/nurstatistics/static/js/main.f63d5849.chunk.js.map",
+    "runtime-main.js": "/nurstatistics/static/js/runtime-main.6fdb1a93.js",
+    "runtime-main.js.map": "/nurstatistics/static/js/runtime-main.6fdb1a93.js.map",
+    "static/js/2.07a9d5ce.chunk.js": "/nurstatistics/static/js/2.07a9d5ce.chunk.js",
+    "static/js/2.07a9d5ce.chunk.js.map": "/nurstatistics/static/js/2.07a9d5ce.chunk.js.map",
+    "index.html": "/nurstatistics/index.html",
+    "precache-manifest.948899c0a0fdc403fd38ff1d3909dc1f.js": "/nurstatistics/precache-manifest.948899c0a0fdc403fd38ff1d3909dc1f.js",
+    "service-worker.js": "/nurstatistics/service-worker.js",
+    "static/css/main.02ce2062.chunk.css.map": "/nurstatistics/static/css/main.02ce2062.chunk.css.map",
+    "static/js/2.07a9d5ce.chunk.js.LICENSE.txt": "/nurstatistics/static/js/2.07a9d5ce.chunk.js.LICENSE.txt",
+    "static/media/bglanding.png": "/nurstatistics/static/media/bglanding.11e96296.png",
+    "static/media/cardiology.jpg": "/nurstatistics/static/media/cardiology.93b4c1ae.jpg",
+    "static/media/dashboard.png": "/nurstatistics/static/media/dashboard.2741fc1c.png",
+    "static/media/departments.png": "/nurstatistics/static/media/departments.3bfb647f.png",
+    "static/media/diagnosis.png": "/nurstatistics/static/media/diagnosis.5548b881.png",
+    "static/media/footer-image.png": "/nurstatistics/static/media/footer-image.24702699.png",
+    "static/media/geriatrics.jpg": "/nurstatistics/static/media/geriatrics.952375c1.jpg",
+    "static/media/helpdesk.png": "/nurstatistics/static/media/helpdesk.90127d8e.png",
+    "static/media/logo.png": "/nurstatistics/static/media/logo.4bb128ed.png",
+    "static/media/logout.png": "/nurstatistics/static/media/logout.992cda2f.png",
+    "static/media/medical.png": "/nurstatistics/static/media/medical.db74d263.png",
+    "static/media/nurstatistics.png": "/nurstatistics/static/media/nurstatistics.039496f0.png",
+    "static/media/opthalmology.jpg": "/nurstatistics/static/media/opthalmology.5a0274e9.jpg",
+    "static/media/personal.png": "/nurstatistics/static/media/personal.ef4c65f8.png",
+    "static/media/symptoms.png": "/nurstatistics/static/media/symptoms.9d2ef95d.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.6fdb1a93.js",
+    "static/js/2.07a9d5ce.chunk.js",
+    "static/css/main.02ce2062.chunk.css",
+    "static/js/main.f63d5849.chunk.js"
+  ]
+}
