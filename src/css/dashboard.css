@@ -1,0 +1,130 @@
+/* Reset default margins */
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+  }
+  
+  /* Sidebar styling */
+  .sidebar {
+    width: 300px;
+    height: 100vh;
+    background-color: #033f4b;
+    color: white;
+    position: fixed;
+    top: 0;
+    left: 0;
+    padding-top: 20px;
+  }
+  
+  .sidebar-header {
+    text-align: center;
+    margin-bottom: 30px;
+  }
+  
+  .sidebar-header img {
+    width: 200px;  /* Profile picture size */
+    height: 200px;
+    border-radius: 50%;
+    border: 3px solid #FFB300;
+  }
+  
+  /* Sidebar Links */
+  .sidebar-links ul {
+    list-style-type: none;
+    padding: 0;
+  }
+  
+  .sidebar-links ul li {
+    padding: 10px;
+    text-align: left;
+    display: flex;  /* Align image and text horizontally */
+    align-items: center; /* Vertically center the items */
+  }
+  
+  .sidebar-links ul li a {
+    color: white;
+    text-decoration: none;
+    font-size: 30px;
+    display: flex;
+    align-items: center;
+    width: 100%; /* Ensure the link fills the space */
+  }
+  
+  .sidebar-links ul li a img {
+    width: 60px;  /* Set image width */
+    height: 60px; /* Set image height */
+    margin-right: 10px; /* Space between image and text */
+  }
+  
+  /* Main content section */
+  .Dmain-content {
+    margin-left: 300px; /* To ensure the main content does not overlap with the sidebar */
+    padding: 40px;
+    height: 100vh;
+    background-color: #F5F5F5;
+  }
+  
+  /* Header styling */
+  .Dheader {
+    background-color: #005f73;
+    padding: 20px;
+    display: flex;
+    align-items: center;
+    border-radius: 20px;
+  }
+  
+  .Dheader .logo-header img {
+    height: 50px; /* Adjust this as needed */
+    margin-right: 20px; /* Spacing from the left side */
+  }
+  
+  /* Dashboard section styling */
+  .dashboard-section {
+    margin-top: 220px;  /* Adds space between the header and the dashboard */
+    text-align: center;
+  }
+  
+  /* Content Cards Styling */
+  .content-cards {
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
+    gap: 16px;
+  }
+  
+  .card {
+    background-color: #005f73;
+    color: white;
+    width: 23%;
+    margin-bottom: 30px;
+    border-radius: 20px;
+    padding: 20px;
+    text-align: center;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+    border: 3px solid #FFB300;  /* Dark yellow border */
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+  }
+  
+  .card img {
+    width: 140%;
+    height: 260px;
+    object-fit: cover;
+    margin-bottom: 15px;
+  }
+  
+  .card-button {
+    background-color: #005f73;
+    color: white;
+    border: none;
+    padding: 10px 20px;
+    font-size: 30px;
+    cursor: pointer;
+    border-radius: 10px;
+    transition: background-color 0.3s ease;
+  }
+  
+  
+  

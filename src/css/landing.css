@@ -1,0 +1,52 @@
+/* General reset */
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+/* Landing page container */
+.landing-page {
+    font-family: Arial, sans-serif;
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-end;  /* Align content towards the bottom */
+    align-items: center;
+    height: 100vh;
+    text-align: center;
+    position: relative;
+    overflow: hidden;
+}
+
+/* Content area - just above the footer */
+.content {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-bottom: 60px;  /* Adjust this space to set distance above footer */
+}
+
+/* Button styles */
+.enter-button {
+    padding: 20px 40px;
+    font-size: 18px;
+    background-color: #4CAF50;
+    color: white;
+    border: none;
+    cursor: pointer;
+    border-radius: 5px;
+    z-index: 1;
+}
+
+.enter-button:hover {
+    background-color: #45a049;
+}
+
+/* Footer styles */
+footer {
+    position: absolute;
+    bottom: 20px;
+    font-size: 14px;
+    color: #777;
+    z-index: 1;
+}
